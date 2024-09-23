@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samradh15
 - 👀 I’m interested in ... cutting edge technology in this world
 - 🌱 I’m currently learning ... i am in college looking for opprtunities
-- 💞️ I’m looking to collaborate on ... different coding organizations
+- 💞️ I’m looking to collaborate on ... newer vision companies
 - 📫 How to reach me ... samradh1515@gmail.com
 
 <!---
