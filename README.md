@@ -24,9 +24,9 @@
 
 ```typescript
 const samradh = {
-  role:       ["AI Engineer", "Product Manager", "Engineering Student @ VIT-AP"],
+  role:       ["AI Engineer", "AI Product Manager"],
   focus:      ["LLM Systems", "0→1 Products", "User Research", "Startups"],
-  building:   ["VyapGO", "DasetAI"],
+  building:   ["VyapGO", "DasetAI", "RelAI", "VacuumOS"],
   philosophy: "Don't just prompt the model. Understand it. Ship with it.",
 };
 ```
@@ -152,15 +152,15 @@ Working on the next layer of AI × product infrastructure. Watch this space.
 > I'm always interested in product opportunities, AI research, and ambitious builders.
 
 <p align="center">
-  <a href="mailto:samradh15@gmail.com">
+  <a href="mailto:samradh1515@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-samradh15%40gmail.com-64ffda?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/samradh15">
+  <a href="https://www.linkedin.com/in/samradh-agarwal-b835a5238/">
     <img src="https://img.shields.io/badge/LINKEDIN-samradh15-64ffda?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
   </a>
   &nbsp;
-  <a href="https://twitter.com/samradh15">
+  <a href="https://x.com/Samradh15">
     <img src="https://img.shields.io/badge/TWITTER-@samradh15-64ffda?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" />
   </a>
 </p>
