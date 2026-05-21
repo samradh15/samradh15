@@ -1,172 +1,136 @@
-<a href="https://github.com/samradh15">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=200&section=header&text=samradh&fontSize=72&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Product%20Thinker%20%E2%80%A2%20Builder&descAlignY=58&descSize=18&descColor=8892b0&animation=fadeIn" />
-</a>
+<div align="center">
+<br/>
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=64FFDA&center=true&vCenter=true&width=600&lines=I+ship+AI+products.+I+also+build+the+AI.;PM+brain+%2B+engineer+hands.;Currently%3A+VyapGO+%26+DasetAI." alt="Typing SVG" />
-  </a>
-</p>
+```
+ ██████  █████  ███    ███ ██████   █████  ██████  ██   ██
+██      ██   ██ ████  ████ ██   ██ ██   ██ ██   ██ ██   ██
+ █████  ███████ ██ ████ ██ ██████  ███████ ██   ██ ███████
+     ██ ██   ██ ██  ██  ██ ██   ██ ██   ██ ██   ██ ██   ██
+██████  ██   ██ ██      ██ ██   ██ ██   ██ ██████  ██   ██
+```
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samradh15&color=64ffda&style=flat-square&label=PROFILE+VIEWS" />
-  &nbsp;
-  <a href="https://github.com/samradh15?tab=followers">
-    <img src="https://img.shields.io/github/followers/samradh15?label=FOLLOWERS&style=flat-square&color=64ffda&labelColor=0d1117" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20Product-64ffda?style=flat-square&labelColor=0d1117" />
-</p>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=560&lines=AI+Engineer.+I+build+the+system%2C+not+just+the+prompt.;LLM+pipelines.+Multi-agent+architectures.+Full-stack.;Founding+Engineer+%40+VyapGO+%26+DasetAI.;Currently%3A+open+to+AI+Eng+%2F+FDE+roles." alt="typing" />
+
+<br/>
+
+![](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-ffffff?style=flat-square&labelColor=000000)
+&nbsp;
+![](https://img.shields.io/badge/FOCUS-AI_ENGINEERING-ffffff?style=flat-square&labelColor=000000)
+&nbsp;
+![](https://img.shields.io/badge/LOC-INDIA-ffffff?style=flat-square&labelColor=000000)
+&nbsp;
+[![](https://komarev.com/ghpvc/?username=samradh15&color=ffffff&style=flat-square&label=VIEWS)](https://github.com/samradh15)
+
+</div>
 
 ---
 
 ## `whoami`
 
 ```typescript
-const samradh = {
-  role:       ["AI Engineer", "AI Product Manager"],
-  focus:      ["LLM Systems", "0→1 Products", "User Research", "Startups"],
-  building:   ["VyapGO", "DasetAI", "RelAI", "VacuumOS"],
-  philosophy: "Don't just prompt the model. Understand it. Ship with it.",
+const samradh: Engineer = {
+  identity:   "AI Engineer — LLM Systems & Agentic Pipelines",
+  stack:      ["Python", "TypeScript", "LangGraph", "FastAPI", "Next.js", "RAG"],
+  built:      ["VyapGO", "DasetAI", "RelAI", "NotifyME", "VacuumOS"],
+  interests:  ["Multi-agent systems", "Hallucination detection", "FDE roles", "0→1 builds"],
+  currently:  "Final year CS @ VIT-AP — targeting AI Eng & Forward Deployed Eng roles",
+  philosophy: "Ship the system. Understand the model. Own the loop.",
 };
 ```
 
-> I sit at the intersection where **AI engineering meets product strategy.**
-> Not just writing prompts — building the systems.
-> Not just building systems — thinking about *why.*
-
 ---
 
-## ⚡ The Duality
+## projects
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-**🧠 PM Brain**
-- User research → problem framing
-- 0→1 product strategy & roadmapping
-- GTM, metrics, and iteration loops
-- Translating ambiguous signals into decisions
+**[RelAI — Multi-Agent Trust Engine](https://github.com/samradh15)**
+
+Multi-agent RAG pipeline with temporal knowledge graph for time-aware entity resolution, cross-agent hallucination detection, and per-query audit trails. FastAPI serving layer. Stateless, multi-tenant.
+
+`Python` `LangGraph` `RAG` `Knowledge Graphs` `FastAPI`
 
 </td>
 <td valign="top" width="50%">
 
-**⚙️ Engineer Hands**
-- LLM pipelines, RAG, agentic systems
-- Full-stack: Next.js, Node, Tailwind
-- Data workflows & AI integrations
-- Shipping, not just designing
+**[NotifyME — Scam Detection System](https://github.com/samradh15)**
+
+Real-time threat validation via multi-agent consensus — agents independently cross-verify claims before verdict. Typed state machine: `pending → verified/blacklisted → alert dispatched`.
+
+`TypeScript` `Next.js` `LLM APIs` `Tailwind`
 
 </td>
 </tr>
-</table>
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,nodejs,tailwind,figma&theme=dark&perline=7" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=64ffda" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### [VyapGO](https://github.com/samradh15/VyapGO)
-**AI-powered business operations platform**
+**[VyapGO — Fintech for MSMEs](https://github.com/samradh15/VyapGO)**
 
-Built for small business owners to manage inventory, sales, and insights — without needing a data team.
+Voice-first billing and inventory platform for MSME merchants. Two-sided marketplace dashboard. Mixpanel telemetry across onboarding funnels with live A/B iteration.
 
-`TypeScript` `Next.js` `AI` `Supabase`
+`Next.js` `Python` `LLM` `Mixpanel`
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### [DasetAI](https://github.com/samradh15/DasetAI-Main)
-**AI data assistant for non-technical teams**
+**[DasetAI — Data Infrastructure SaaS](https://github.com/samradh15/DasetAI-Main)**
 
-Natural language interface over structured data. Ask questions. Get answers. No SQL needed.
+LLM-powered Auto-Clean data agent with schema validation contracts and output guardrails. Two-week deploy cadence. 10+ pilot deployments.
 
 `Python` `LLM` `RAG` `React`
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### [VacuumOS](https://github.com/samradh15/Vacuum-OS)
-**Experimental OS-level interface concept**
-
-Exploring what operating system UX looks like when AI is a first-class citizen — not a plugin.
-
-`Systems` `UI/UX` `Concept`
-
-</td>
-<td width="50%" valign="top">
-
-### What's next?
-Working on the next layer of AI × product infrastructure. Watch this space.
-
-`Stealth` `2025`
-
-</td>
-</tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
+## stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samradh15&show_icons=true&theme=dark&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=c9d1d9&border_color=30363d&hide_border=false&rank_icon=github&show=reviews,discussions_started" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samradh15&layout=compact&theme=dark&bg_color=0d1117&title_color=64ffda&text_color=c9d1d9&border_color=30363d&hide_border=false" height="165" />
-</p>
+```
+AI / LLM     →  OpenAI · Anthropic APIs · LangGraph · LangChain · RAG · Vector DBs
+               Embeddings · Prompt Engineering · Guardrails · Multi-Agent Orchestration
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=samradh15&theme=dark&background=0d1117&border=30363d&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&currStreakNum=ffffff&sideNums=ffffff" />
-</p>
+Engineering  →  Python · FastAPI · TypeScript · React · Next.js · REST · SQL · Git
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samradh15&theme=darkhub&no-frame=true&margin-w=8&column=6&title=Commits,Repositories,PullRequest,MultiLanguage,Issues,Reviews" />
-</p>
+Infra        →  Vercel · Supabase · PostgreSQL · Docker
+
+Analytics    →  Mixpanel · PostHog · Funnel Analysis · A/B Testing
+```
 
 ---
 
-## 🤝 Let's Talk
+## stats
 
-> I'm always interested in product opportunities, AI research, and ambitious builders.
+<div align="center">
 
-<p align="center">
-  <a href="mailto:samradh1515@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-samradh15%40gmail.com-64ffda?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/samradh-agarwal-b835a5238/">
-    <img src="https://img.shields.io/badge/LINKEDIN-samradh15-64ffda?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/Samradh15">
-    <img src="https://img.shields.io/badge/TWITTER-@samradh15-64ffda?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" />
-  </a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=samradh15&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=888888&border_color=222222&hide_border=false&rank_icon=github&hide=stars" height="160" />
+&nbsp;
+<img src="https://streak-stats.demolab.com/?user=samradh15&theme=dark&background=0d1117&border=222222&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff" height="160" />
 
+</div>
+
+---
+
+## contact
+
+```
+email    →  samradh1515@gmail.com
+linkedin →  linkedin.com/in/samradh-agarwal-b835a5238
+portfolio→  samradh.dev
+twitter  →  x.com/Samradh15
+```
+
+<div align="center">
 <br/>
 
-<a href="https://github.com/samradh15">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=100&section=footer&animation=fadeIn" />
-</a>
+![](https://img.shields.io/badge/open_to-AI_Engineering-ffffff?style=for-the-badge&labelColor=000000)
+&nbsp;
+![](https://img.shields.io/badge/open_to-Forward_Deployed_Engineer-ffffff?style=for-the-badge&labelColor=000000)
+
+<br/><br/>
+</div>
