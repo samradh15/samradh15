@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 300" width="880" height="300" role="img" aria-label="Samradh Agarwal — AI Product Manager, open to AI PM and Forward Deployed roles">
+<style>
+  .sans{font-family:'Inter','Helvetica Neue',Helvetica,-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif}
+  .mono{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+  .meta{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;font-size:10px;letter-spacing:3.4px;fill:#6E7A87}
+  .rule{stroke:#30363D;stroke-width:1}
+  .ac{fill:#D4FF4F}
+  text{text-rendering:geometricPrecision}
+
+  .wm{font-family:'Inter','Helvetica Neue',Helvetica,-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;font-size:64px;font-weight:800;letter-spacing:-2.2px;fill:#E6EDF3}
+  .wm-out{fill:none;stroke:#E6EDF3;stroke-width:1.25}
+  .k{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;font-size:10px;letter-spacing:2px;fill:#6E7A87}
+  .v{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;font-size:11.5px;fill:#9BA6B2}
+  .v b{font-weight:600;fill:#E6EDF3}
+  .cli{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;font-size:13px;fill:#9BA6B2}
+  .t{opacity:0;animation:cyc 18s linear infinite}
+  .t2{animation-delay:4.5s}.t3{animation-delay:9s}.t4{animation-delay:13.5s}
+  @keyframes cyc{0%{opacity:0}1.5%{opacity:1}23%{opacity:1}25%{opacity:0}100%{opacity:0}}
+  .caret{animation:blink 1.06s steps(1,end) infinite}
+  @keyframes blink{0%,50%{opacity:1}50.01%,100%{opacity:0}}
+  .pulse{animation:pl 2.4s ease-out infinite}
+  @keyframes pl{0%{r:3.5;opacity:.55}100%{r:11;opacity:0}}
+  .sweep{animation:sw 18s linear infinite}
+  @keyframes sw{0%{transform:translateX(0);opacity:0}4%{opacity:.9}
+                40%{opacity:.9}55%{opacity:0}100%{transform:translateX(792px);opacity:0}}
+.em{font-weight:600;fill:#E6EDF3}
+</style>
+<text class="meta" x="44" y="42">PORTFOLIO INDEX</text>
+<text class="meta" x="836" y="42" text-anchor="end">SAMRADH.DEV</text>
+<line class="rule" x1="44" y1="56" x2="836" y2="56"/>
+<g class="sweep"><rect x="44" y="54.5" width="46" height="3" fill="#D4FF4F" rx="1.5"/></g>
+<text class="wm" x="42" y="130">SAMRADH</text>
+<text class="wm wm-out" x="42" y="196">AGARWAL</text>
+<rect x="44" y="218" width="76" height="4" fill="#D4FF4F"/>
+<text class="k" x="470" y="96">ROLE</text>
+<text class="v" x="548" y="96">AI Product Manager <tspan class="mono" fill="#6E7A87">— discovery to ship</tspan></text>
+<text class="k" x="470" y="123">FOCUS</text>
+<text class="v" x="548" y="123">0&#8594;1 products <tspan fill="#6E7A87">·</tspan> AI/LLM <tspan fill="#6E7A87">·</tspan> Forward Deployed</text>
+<text class="k" x="470" y="150">BUILT</text>
+<text class="v" x="548" y="150">VyapGO <tspan fill="#6E7A87">·</tspan> DasetAI <tspan fill="#6E7A87">·</tspan> RelAI <tspan fill="#6E7A87">·</tspan> NotifyME</text>
+<text class="k" x="470" y="177">PROOF</text>
+<text class="v" x="548" y="177"><tspan class="ac">50+</tspan> merchants live <tspan fill="#6E7A87">·</tspan> <tspan class="ac">80+</tspan> interviews</text>
+<text class="k" x="470" y="204">STATUS</text>
+<circle class="pulse" cx="553" cy="200" r="3.5" fill="#D4FF4F"/>
+<circle cx="553" cy="200" r="3.5" fill="#D4FF4F"/>
+<text class="v" x="565" y="204"><tspan class="em">Open to AI PM / FDE roles</tspan></text>
+<line class="rule" x1="44" y1="250" x2="836" y2="250"/>
+<text class="cli t t1" x="44" y="280"><tspan class="ac">&#9656;</tspan> I think like a founder, build like an engineer, ship like a PM.<tspan class="ac caret">&#9608;</tspan></text>
+<text class="cli t t2" x="44" y="280"><tspan class="ac">&#9656;</tspan> Discovery over opinion. If users aren't complaining, I'm not building.<tspan class="ac caret">&#9608;</tspan></text>
+<text class="cli t t3" x="44" y="280"><tspan class="ac">&#9656;</tspan> Specs are cheap. Untested specs are risky — so I prototype first.<tspan class="ac caret">&#9608;</tspan></text>
+<text class="cli t t4" x="44" y="280"><tspan class="ac">&#9656;</tspan> AI is a feature, not a benefit. Users should forget the AI is there.<tspan class="ac caret">&#9608;</tspan></text>
+</svg>

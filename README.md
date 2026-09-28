@@ -1,87 +1,111 @@
 <div align="center">
-<br/>
 
-```
- ██████  █████  ███    ███ ██████   █████  ██████  ██   ██
-██      ██   ██ ████  ████ ██   ██ ██   ██ ██   ██ ██   ██
- █████  ███████ ██ ████ ██ ██████  ███████ ██   ██ ███████
-     ██ ██   ██ ██  ██  ██ ██   ██ ██   ██ ██   ██ ██   ██
-██████  ██   ██ ██      ██ ██   ██ ██   ██ ██████  ██   ██
-```
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=560&lines=AI+Engineer.+I+build+the+system%2C+not+just+the+prompt.;LLM+pipelines.+Multi-agent+architectures.+Full-stack.;Founding+Engineer+%40+VyapGO+%26+DasetAI.;Currently%3A+open+to+AI+Eng+%2F+FDE+roles." alt="typing" />
-
-<br/>
-
-![](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-ffffff?style=flat-square&labelColor=000000)
-&nbsp;
-![](https://img.shields.io/badge/FOCUS-AI_ENGINEERING-ffffff?style=flat-square&labelColor=000000)
-&nbsp;
-![](https://img.shields.io/badge/LOC-INDIA-ffffff?style=flat-square&labelColor=000000)
-&nbsp;
-[![](https://komarev.com/ghpvc/?username=samradh15&color=ffffff&style=flat-square&label=VIEWS)](https://github.com/samradh15)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/hero-light.svg">
+  <img alt="Samradh Agarwal — AI Product Manager. Open to AI PM and Forward Deployed roles." src="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/hero-light.svg" width="880">
+</picture>
 
 </div>
 
+## outcomes
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/metrics-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/metrics-light.svg">
+  <img alt="80+ MSME interviews · 50+ merchants live · +90% activation lift · 15+ clients shipped" src="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/metrics-light.svg" width="880">
+</picture>
+
+</div>
+
+I work at the intersection of **user research, technical execution, and roadmap ownership** — turning messy real-world problems into products people actually use. Founding PM at two startups, currently final year CS @ VIT-AP.
+
 ---
 
-## `whoami`
-
-```typescript
-const samradh: Engineer = {
-  identity:   "AI Engineer — LLM Systems & Agentic Pipelines",
-  stack:      ["Python", "TypeScript", "LangGraph", "FastAPI", "Next.js", "RAG"],
-  built:      ["VyapGO", "DasetAI", "RelAI", "NotifyME", "VacuumOS"],
-  interests:  ["Multi-agent systems", "Hallucination detection", "FDE roles", "0→1 builds"],
-  currently:  "Final year CS @ VIT-AP — targeting AI Eng & Forward Deployed Eng roles",
-  philosophy: "Ship the system. Understand the model. Own the loop.",
-};
-```
-
----
-
-## projects
+## ship log
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-**[RelAI — Multi-Agent Trust Engine](https://github.com/samradh15)**
+### VyapGO
+`Founding PM` · `Apr 2025 – Jan 2026`
 
-Multi-agent RAG pipeline with temporal knowledge graph for time-aware entity resolution, cross-agent hallucination detection, and per-query audit trails. FastAPI serving layer. Stateless, multi-tenant.
+Voice-first billing and inventory OS for India's MSMEs. Ran **80+ merchant interviews**, owned the roadmap end-to-end, and closed a 20% sign-up drop-off with A/B testing.
 
-`Python` `LangGraph` `RAG` `Knowledge Graphs` `FastAPI`
+**50+ merchants live · +90% first-transaction completion**
+
+`Discovery` `Roadmap` `Mixpanel` `Next.js`
+
+[**Live**](https://vyapgo.vercel.app/) · [**Case study**](https://samradh.dev/vyapgo-case-study.html) · [**Code**](https://github.com/samradh15/VyapGO)
 
 </td>
 <td valign="top" width="50%">
 
-**[NotifyME — Scam Detection System](https://github.com/samradh15)**
+### DasetAI
+`Founding PM` · `Dec 2024 – Apr 2025`
 
-Real-time threat validation via multi-agent consensus — agents independently cross-verify claims before verdict. Typed state machine: `pending → verified/blacklisted → alert dispatched`.
+AI data-quality and cleaning SaaS for ML teams. Specced the Auto-Clean agent with schema-validation contracts and output guardrails, on a two-week release cadence.
 
-`TypeScript` `Next.js` `LLM APIs` `Tailwind`
+**10+ pilot customers**
+
+`PRDs` `Guardrails` `Python` `LLM` `React`
+
+[**Live**](https://daset-ai-main.vercel.app/)
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
 
-**[VyapGO — Fintech for MSMEs](https://github.com/samradh15/VyapGO)**
+### Microsoft 365 Copilot — The Activation Gap
+`Independent analysis` · `Apr 2026`
 
-Voice-first billing and inventory platform for MSME merchants. Two-sided marketplace dashboard. Mixpanel telemetry across onboarding funnels with live A/B iteration.
+Why enterprise AI seat sales never became daily habits. Diagnosed the funnel from **450M seats down to ~1–2M habitual users**, then proposed the activation fixes.
 
-`Next.js` `Python` `LLM` `Mixpanel`
+`Funnel Analysis` `Enterprise AI` `Product Strategy`
+
+[**Case study**](https://samradh.dev/copilot-case-study.html)
 
 </td>
 <td valign="top" width="50%">
 
-**[DasetAI — Data Infrastructure SaaS](https://github.com/samradh15/DasetAI-Main)**
+### RelAI
+`Independent` · `2026`
 
-LLM-powered Auto-Clean data agent with schema validation contracts and output guardrails. Two-week deploy cadence. 10+ pilot deployments.
+Multi-agent trust engine that catches hallucinated LLM answers before they reach users. Temporal knowledge graph for time-aware entity resolution, plus per-query audit trails.
 
-`Python` `LLM` `RAG` `React`
+`RAG` `Model Eval` `LangGraph` `FastAPI`
+
+[**Live**](https://rely-ai.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### NotifyME
+`Independent` · `2026`
+
+Real-time fraud and scam detection where agents independently cross-verify a claim before any verdict is issued. Typed state machine: `pending → verified/blacklisted → alert dispatched`.
+
+`Multi-Agent` `TypeScript` `Next.js`
+
+[**Live**](https://notify-me-tau.vercel.app/) · [**Code**](https://github.com/samradh15/NotifyME)
+
+</td>
+<td valign="top" width="50%">
+
+### Vacuum OS
+`Independent` · `Jan 2026`
+
+Deep work platform built around the 45-minute focus session as the atomic unit. Opinionated by design — the product owns the ritual so the user doesn't have to.
+
+`Product Design` `Next.js` `Vercel`
+
+[**Live**](https://vacuum-os.vercel.app/)
 
 </td>
 </tr>
@@ -89,48 +113,89 @@ LLM-powered Auto-Clean data agent with schema validation contracts and output gu
 
 ---
 
-## stack
-
-```
-AI / LLM     →  OpenAI · Anthropic APIs · LangGraph · LangChain · RAG · Vector DBs
-               Embeddings · Prompt Engineering · Guardrails · Multi-Agent Orchestration
-
-Engineering  →  Python · FastAPI · TypeScript · React · Next.js · REST · SQL · Git
-
-Infra        →  Vercel · Supabase · PostgreSQL · Docker
-
-Analytics    →  Mixpanel · PostHog · Funnel Analysis · A/B Testing
-```
-
----
-
-## stats
+## how i work
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=samradh15&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=888888&border_color=222222&hide_border=false&rank_icon=github&hide=stars" height="160" />
-&nbsp;
-<img src="https://streak-stats.demolab.com/?user=samradh15&theme=dark&background=0d1117&border=222222&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff" height="160" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/pipeline-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/pipeline-light.svg">
+  <img alt="Discovery: if users aren't complaining, I'm not building. Execution: specs are cheap, untested specs are risky — I prototype in Python/Next.js. Delivery: AI is a feature, not a benefit." src="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/pipeline-light.svg" width="880">
+</picture>
 
 </div>
 
 ---
 
-## contact
+## experience
 
 ```
-email    →  samradh1515@gmail.com
-linkedin →  linkedin.com/in/samradh-agarwal-b835a5238
-portfolio→  samradh.dev
-twitter  →  x.com/Samradh15
+1000xDev                        AI Product Management Intern        Feb 2026 – Jul 2026
+  Owned the product cycle end-to-end for 15+ clients across India, New Zealand
+  and Dubai. Ran discovery calls and customer research, then wrote the PRDs and
+  user stories. 10+ moved straight into production; rework cut by resolving
+  misalignment before the build started.
+
+RECON 2026                      Lead Organizer                                Apr 2026
+  National cybersecurity workshop. Owned the planning and execution playbook
+  for 600+ participants on a Rs. 80,000+ budget.
+
+VIT-AP University               ML & AI Workshop Instructor                   Apr 2025
+  Designed and delivered a curriculum on ML and RAG fundamentals to 100+
+  engineering students.
 ```
+
+---
+
+## toolkit
+
+```
+Product      User Research · PRD Writing · RICE Prioritization · Roadmapping
+             Agile/Scrum · A/B Testing · GA4 · Mixpanel · Funnel Analysis
+
+Technical    Python · SQL · RAG Architectures · LLM Integration (GPT/Gemini/Claude)
+             Data Pipelines (ETL) · Model Eval (F1/Recall) · Prompt & Guardrail Design
+
+Engineering  JavaScript (ES6+) · React · Next.js · Node.js · REST API Design · Git/CI-CD
+
+Systems      Agentic Coding · UI Principles · Design Systems · Linear · Notion · Vercel
+```
+
+---
+
+## contact
 
 <div align="center">
 <br/>
 
-![](https://img.shields.io/badge/open_to-AI_Engineering-ffffff?style=for-the-badge&labelColor=000000)
-&nbsp;
-![](https://img.shields.io/badge/open_to-Forward_Deployed_Engineer-ffffff?style=for-the-badge&labelColor=000000)
+<a href="https://samradh.dev/"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-portfolio-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-portfolio-light.svg">
+  <img alt="Portfolio — samradh.dev" src="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-portfolio-light.svg" width="176">
+</picture></a>
+<a href="https://www.linkedin.com/in/samradh-agarwal-b835a5238/"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-linkedin-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-linkedin-light.svg">
+  <img alt="LinkedIn" src="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-linkedin-light.svg" width="176">
+</picture></a>
+<a href="mailto:samradh1515@gmail.com"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-email-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-email-light.svg">
+  <img alt="Email — samradh1515@gmail.com" src="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-email-light.svg" width="176">
+</picture></a>
+<a href="https://samradh.dev/samradh-resume.pdf"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-resume-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-resume-light.svg">
+  <img alt="Resume PDF" src="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-resume-light.svg" width="176">
+</picture></a>
 
 <br/><br/>
+
+<sub><b>Open to AI Product Management & Forward Deployed Engineer roles</b></sub>
+
+<br/>
+
+<sub>Utility over hype · Shipping is learning · Clear thinking</sub>
+
+<br/>
 </div>
