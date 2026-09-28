@@ -167,35 +167,13 @@ Systems      Agentic Coding · UI Principles · Design Systems · Linear · Noti
 
 <div align="center">
 <br/>
-
-<a href="https://samradh.dev/"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-portfolio-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-portfolio-light.svg">
-  <img alt="Portfolio — samradh.dev" src="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-portfolio-light.svg" width="176">
-</picture></a>
-<a href="https://www.linkedin.com/in/samradh-agarwal-b835a5238/"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-linkedin-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-linkedin-light.svg">
-  <img alt="LinkedIn" src="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-linkedin-light.svg" width="176">
-</picture></a>
-<a href="mailto:samradh1515@gmail.com"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-email-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-email-light.svg">
-  <img alt="Email — samradh1515@gmail.com" src="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-email-light.svg" width="176">
-</picture></a>
-<a href="https://samradh.dev/samradh-resume.pdf"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-resume-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-resume-light.svg">
-  <img alt="Resume PDF" src="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-resume-light.svg" width="176">
-</picture></a>
-
+<a href="https://samradh.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-portfolio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-portfolio-light.svg"><img alt="Portfolio — samradh.dev" src="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-portfolio-light.svg" width="176"></picture></a>
+<a href="https://www.linkedin.com/in/samradh-agarwal-b835a5238/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-linkedin-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-linkedin-light.svg"><img alt="LinkedIn" src="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-linkedin-light.svg" width="176"></picture></a>
+<a href="mailto:samradh1515@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-email-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-email-light.svg"><img alt="Email — samradh1515@gmail.com" src="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-email-light.svg" width="176"></picture></a>
+<a href="https://samradh.dev/samradh-resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-resume-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-resume-light.svg"><img alt="Resume PDF" src="https://raw.githubusercontent.com/samradh15/samradh15/main/assets/btn-resume-light.svg" width="176"></picture></a>
 <br/><br/>
-
-<sub><b>Open to AI Product Management & Forward Deployed Engineer roles</b></sub>
-
-<br/>
-
-<sub>Utility over hype · Shipping is learning · Clear thinking</sub>
-
+<sub><b>Open to AI Product Management &amp; Forward Deployed Engineer roles</b></sub>
+<br/><br/>
+<sub>Utility over hype &middot; Shipping is learning &middot; Clear thinking</sub>
 <br/>
 </div>
